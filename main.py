@@ -1,5 +1,5 @@
 """
-File: index.py
+File: main.py
 Updated by: Michael Lewin
 Semester Summer 2021
 Due: 08/19/2021
